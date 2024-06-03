@@ -15,7 +15,8 @@ public class HelloWorld {
         // java statement, println=print text in console, make new line
         System.out.println( "Hello World!" );
         // print = will write text without making a new line.
-        System.out.print("Hello Java!");
-        System.out.print("Hello Java!");
+        System.out.print("Hello Java1");
+        System.out.print("Hello Java2");
+        System.out.print("Hello Java3");
     }
 }
