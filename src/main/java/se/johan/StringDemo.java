@@ -8,7 +8,7 @@ public class StringDemo {
         String fullName = firstName + " " + lastName;
         //String fullName = firstName.concat( str: " ").concat(lastName); NOT WORKING
         System.out.println(fullName);
-        System.out.println(fullName.toUpperCase());
+        System.out.println(fullName.toUpperCase()); // present in capital letters
 
 
     }
