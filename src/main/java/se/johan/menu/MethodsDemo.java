@@ -1,4 +1,4 @@
-package se.johan;
+package se.johan.menu;
 
 public class MethodsDemo {
     public static void main(String[] args) {

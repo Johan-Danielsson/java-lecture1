@@ -1,5 +1,7 @@
 package se.johan;
 
+import se.johan.menu.MethodsDemo;
+
 public class App {
 
     public static void main(String[] args) {
